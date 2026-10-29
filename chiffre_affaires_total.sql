@@ -1,0 +1,1 @@
+select sum(prix*qte) as chiffre_affaires_total from ventes
